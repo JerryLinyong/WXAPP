@@ -1,0 +1,4 @@
+
+export const ADD_GATEWAY = 'ADD_GATEWAY'
+export const REMOVE_GATEWAY = 'REMOVE_GATEWAY'
+export const UPDATE_GATEWAY = 'UPDATE_GATEWAY'
